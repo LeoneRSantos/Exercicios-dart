@@ -1,5 +1,5 @@
-import 'produto.dart';
-import 'loja.dart';
+import 'Produto.dart';
+import 'Loja.dart';
 
 void main() {
   
