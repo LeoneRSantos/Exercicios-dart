@@ -9,3 +9,4 @@
 - Semáforos: estruturas de decisão(if, else e switch).
 - Tabuadas: estruturas de repetição(for e while).
 - Classes, métodos e atributos: os mesmos do nome do diretório e objetos(sem encapsulamento).
+- Escola: classes, métodos, atributos(com encapsulamento) e objetos.
