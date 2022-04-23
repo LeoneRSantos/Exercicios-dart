@@ -1,6 +1,6 @@
 ## Exercícios - Dart
 
-- Este repositório contem alguns exercícios e exemplos utilizando a linguagem Dart.
+- Este repositório contem alguns exercícios e exemplos utilizando a linguagem Dart. Cada um está em um diretório, que possui um ou mais exemplos do conceito abordado. Além disso, um arquivo 'README.md' em cada pasta traz uma descrição sobre o que é feito. 
 
 <BR>
 
