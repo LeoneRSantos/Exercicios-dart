@@ -11,3 +11,4 @@
 - Classes, métodos e atributos: os mesmos do nome do diretório e objetos(sem encapsulamento).
 - Escola: classes, métodos, atributos(com encapsulamento) e objetos.
 - Idiomas: interface (classe abstrata em dart).
+- Pagamentos: herança, sobrescrita e polimorfismo. 
