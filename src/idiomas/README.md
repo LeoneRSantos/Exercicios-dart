@@ -1,0 +1,3 @@
+## Idiomas
+
+- Neste exercício, são criadas 4 classes. 3 delas (Portugês, Inglês e Espanhol) implementam a classe abstrata Idioma(a classe abstrata funciona como uma interface em dart, diferente de Java) e usam o método 'comunicar()' desta. Isto serve para exemplificar o conceito de interface: cada idioma se comunica de um jeito diferente, mas todos usam a mesma ação. Nesse caso, uma ação dos idiomas: se comunicar. 
