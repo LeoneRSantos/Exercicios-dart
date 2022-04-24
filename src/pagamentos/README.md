@@ -1,0 +1,3 @@
+## Pagamentos
+
+- Neste exercício, são criadas 4 classes. As classes 'Boleto', 'CartaoDeCredito' e 'Pix' são formas de pagamento, portanto herdam da classe 'Pagamento'. Cada uma delas herda o método 'pagar' e usa sobrescrita para 'pagar' na sua forma (boleto, cartão ou pix). No método 'Main' são mostrados os pagamentos e, em cada objeto, a instância é feita de forma especial (pois cada um é uma forma de pagamento,o que permite esse tipo especial).
