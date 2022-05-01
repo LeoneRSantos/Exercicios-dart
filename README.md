@@ -13,4 +13,6 @@
 - Idiomas: interface (classe abstrata em dart).
 - Pagamentos: herança, sobrescrita e polimorfismo. 
 - CEP: Future, async e await.
-- Regiões do Brasil: mapas.
+- Regiões do Brasil: mapas(Map).
+- Contatos: Json.
+- Login: tratamento de excessões (throw, try/catch).
